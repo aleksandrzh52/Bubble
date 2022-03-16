@@ -1,7 +1,7 @@
 public class Bubble {
     public static void main(String[] args) {
-        int[] sortArray = {5, 20, 1, 4, 8};
-        int size = 5;
+        int[] sortArray = {99, -10, 100123, 18, -978, 5623, 463, -9, 287, 49 };
+        int size = sortArray.length;
         int t;
         System.out.println("Несортированный массив");
         for (int i = 0; i < size; i++) {
